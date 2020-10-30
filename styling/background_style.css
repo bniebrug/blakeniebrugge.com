@@ -3,6 +3,10 @@ body {
   margin: 0;
   font: normal 75% Arial, Helvetica, sans-serif;
 }
+h1{
+  color: white;
+  font-weight: bold;
+}
 canvas {
   display: block;
   vertical-align: bottom;
